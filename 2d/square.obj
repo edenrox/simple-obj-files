@@ -1,0 +1,9 @@
+# Square vertices
+v -1 1 0
+v 1 1 0
+v 1 -1 0 
+v -1 -1 0
+
+# Square faces
+f 1 4 2
+f 2 4 3
