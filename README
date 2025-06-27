@@ -1,0 +1,4 @@
+Wrote some simple OBJ files to use in a 3d renderer.
+
+Tested vertices, surfaces, and surface normals using the renderer here:
+https://rufus31415.github.io/sandbox/3d-viewer/
